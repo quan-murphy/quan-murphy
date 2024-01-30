@@ -1,4 +1,4 @@
-### CHOZ3N 👋
+### 🐦‍🔥CHOZ3N
 **`Security Professional | Bug Bounty Hunter | Tech Enthusiast `**
 
 Welcome! My name is Quan Murphy, but I go by Choz3n. I'm a cybersecurity professional based in sunny Los Angeles ☀️with a passion for all things tech. You'll often find me immersed in the world of video games, indulging my love for both modern and retro gaming experiences. I'm also an avid bug bounty hunter, constantly on the lookout for vulnerabilities to help make the digital world a safer place. Beyond cybersecurity, I enjoy tinkering with technology, building custom PCs, and exploring new coding projects. 
