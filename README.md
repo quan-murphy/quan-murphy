@@ -1,9 +1,9 @@
 ### 🐦‍🔥CHOZ3N
-**`Technology Professional | Bug Bounty Hunter | Tech Enthusiast | IT Anaylst `**
+**`Bug Bounty Hunter | Tech Enthusiast | IT Anaylst `**
 
-Welcome! My name is Quan "CHOZ3N" Murphy. I'm a technology professional from sunny Los Angeles ☀️ and recently moved to PNW Oregon ⛰️ with a passion for all things tech. You'll often find me immersed in the world of video games, indulging my love for both modern and retro gaming experiences. I'm also an learning to become a bug bounty hunter, constantly on the lookout for vulnerabilities to help make the digital world a safer place. Beyond cybersecurity, I enjoy tinkering with technology, building custom PCs, and exploring new projects. 
+Welcome! My name is Quan "CHOZ3N" Murphy. I'm a technology professional from sunny Los Angeles ☀️ and recently moved to PNW ⛰️ with a passion for all things tech. You'll often find me immersed in the world of video games, indulging my love for both modern and retro gaming experiences. I'm also a bug bounty hunter, constantly on the lookout for vulnerabilities to help make the digital world a safer place. Beyond cybersecurity, I enjoy tinkering with technology, building custom PCs, and exploring new projects. 
 
-Follow along as I share my adventures in cybersecurity, gaming, and technology here on GitHub!
+Follow along as I share my adventures in cybersecurity, gaming, and technology! 
 
 <!--
 **quan-murphy/quan-murphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
